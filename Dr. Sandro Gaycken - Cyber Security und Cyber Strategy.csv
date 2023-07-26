@@ -1,24 +1,24 @@
-Timestamp;Time;Topic;Source
-https://youtu.be/sxzCbLRbIkA?t=120;00:02:00;Operation Cleaver;https://www.cylance.com/operation-cleaver
-https://youtu.be/sxzCbLRbIkA?t=170;00:02:50;Maleware im AKW;https://www.heise.de/security/meldung/AKW-Gundremmingen-Infektion-mit-Uralt-Schadsoftware-3188599.html
-https://youtu.be/sxzCbLRbIkA?t=200;00:03:20;Angriff auf Air Traffic Ground Control;https://www.aldrimer.no/sweden-issued-cyber-attack-alert-as-its-air-traffic-reeled
-https://youtu.be/sxzCbLRbIkA?t=245;00:04:05;Angriff auf Nuclear Command And Control;http://thediplomat.com/2014/02/s-korea-seeks-cyber-weapons-to-target-north-koreas-nukes
-https://youtu.be/sxzCbLRbIkA?t=300;00:05:00;Piraten;https://www.buzzfeed.com/josephbernstein/how-pirates-and-hackers-worked-together-to-steal-millions-of?utm_term=.crQEx5dN9#.svDyjAQG8
-https://youtu.be/sxzCbLRbIkA?t=315;00:05:15;Mafia;https://www.bloomberg.com/graphics/2015-mob-technology-consultants-help-drug-traffickers
-https://youtu.be/sxzCbLRbIkA?t=320;00:05:20;Verkauf von Öltanker Zertifikaten;http://www.pandasecurity.com/mediacenter/src/uploads/2015/05/oil-tanker-en.pdf
-https://youtu.be/sxzCbLRbIkA?t=390;00:06:30;Stonedrill Wiper;https://thehackernews.com/2017/03/stonedrill-data-wiping-malware.html
-https://youtu.be/sxzCbLRbIkA?t=450;00:07:30;Heizungsausfall;https://thehackernews.com/2016/11/heating-system-hacked.html
-https://youtu.be/sxzCbLRbIkA?t=475;00:07:55;Vault 7;https://wikileaks.org/vault7
-https://youtu.be/sxzCbLRbIkA?t=615;00:10:15;Buffer Overflow;http://web.mit.edu/Saltzer/www/publications/protection
-https://youtu.be/sxzCbLRbIkA?t=830;00:13:50;$22 Mio. Verlust pro Minute bei Fortune 500;https://www.onapsis.com/onapsis-discovers-and-helps-mitigate-new-critical-cyber-security-vulnerabilities-affecting-all-sap
-https://youtu.be/sxzCbLRbIkA?t=850;00:14:10;IEC 62443;https://de.wikipedia.org/wiki/IEC_62443
-https://youtu.be/sxzCbLRbIkA?t=865;00:14:25;Cisco;https://tools.cisco.com/security/center/publicationListing.x
-https://youtu.be/sxzCbLRbIkA?t=895;00:14:55;Siemens;http://www.industry.siemens.com/topics/global/de/industrial-security/news-alerts/seiten/alerts.aspx
-https://youtu.be/sxzCbLRbIkA?t=910;00:15:10;NIST;https://www.nist.gov/publications/search?term_node_tid_depth%5B%5D=248731
-https://youtu.be/sxzCbLRbIkA?t=1080;00:18:00;FireEye;https://www.ernw.de/download/ERNW_44CON_PlayingWithFire_signed.pdf
-https://youtu.be/sxzCbLRbIkA?t=1095;00:18:15;ATMs;https://www.kaspersky.com/blog/sas-2017-atm-malware/14509
-https://youtu.be/sxzCbLRbIkA?t=1110;00:18:30;Workshop;https://www.esmt.org/faculty-research/centers-chairs-and-institutes/digital-society-institute-dsi/dsi-events
-https://youtu.be/sxzCbLRbIkA?t=1190;00:19:50;Patrick Winston;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos
-https://youtu.be/sxzCbLRbIkA?t=1210;00:20:10;Unterbrochene Herz-OP;https://arstechnica.com/security/2016/05/faulty-av-scan-disrupts-patients-heart-procedure-when-monitor-goes-black
-https://youtu.be/sxzCbLRbIkA?t=1305;00:21:45;ZDF Test;https://www.zdf.de/politik/frontal-21/luecken-bei-antiviren-software-100.html
-https://youtu.be/sxzCbLRbIkA?t=1320;00:22:00;Hochsicherheitsansätze;https://www.quantamagazine.org/formal-verification-creates-hacker-proof-code-20160920
+Timestamp,Time,Topic,Source
+https://youtu.be/sxzCbLRbIkA?t=120,00:02:00,Operation Cleaver,https://www.cylance.com/operation-cleaver
+https://youtu.be/sxzCbLRbIkA?t=170,00:02:50,Maleware im AKW,https://www.heise.de/security/meldung/AKW-Gundremmingen-Infektion-mit-Uralt-Schadsoftware-3188599.html
+https://youtu.be/sxzCbLRbIkA?t=200,00:03:20,Angriff auf Air Traffic Ground Control,https://www.aldrimer.no/sweden-issued-cyber-attack-alert-as-its-air-traffic-reeled
+https://youtu.be/sxzCbLRbIkA?t=245,00:04:05,Angriff auf Nuclear Command And Control,http://thediplomat.com/2014/02/s-korea-seeks-cyber-weapons-to-target-north-koreas-nukes
+https://youtu.be/sxzCbLRbIkA?t=300,00:05:00,Piraten,https://www.buzzfeed.com/josephbernstein/how-pirates-and-hackers-worked-together-to-steal-millions-of?utm_term=.crQEx5dN9#.svDyjAQG8
+https://youtu.be/sxzCbLRbIkA?t=315,00:05:15,Mafia,https://www.bloomberg.com/graphics/2015-mob-technology-consultants-help-drug-traffickers
+https://youtu.be/sxzCbLRbIkA?t=320,00:05:20,Verkauf von Öltanker Zertifikaten,http://www.pandasecurity.com/mediacenter/src/uploads/2015/05/oil-tanker-en.pdf
+https://youtu.be/sxzCbLRbIkA?t=390,00:06:30,Stonedrill Wiper,https://thehackernews.com/2017/03/stonedrill-data-wiping-malware.html
+https://youtu.be/sxzCbLRbIkA?t=450,00:07:30,Heizungsausfall,https://thehackernews.com/2016/11/heating-system-hacked.html
+https://youtu.be/sxzCbLRbIkA?t=475,00:07:55,Vault 7,https://wikileaks.org/vault7
+https://youtu.be/sxzCbLRbIkA?t=615,00:10:15,Buffer Overflow,http://web.mit.edu/Saltzer/www/publications/protection
+https://youtu.be/sxzCbLRbIkA?t=830,00:13:50,$22 Mio. Verlust pro Minute bei Fortune 500,https://www.onapsis.com/onapsis-discovers-and-helps-mitigate-new-critical-cyber-security-vulnerabilities-affecting-all-sap
+https://youtu.be/sxzCbLRbIkA?t=850,00:14:10,IEC 62443,https://de.wikipedia.org/wiki/IEC_62443
+https://youtu.be/sxzCbLRbIkA?t=865,00:14:25,Cisco,https://tools.cisco.com/security/center/publicationListing.x
+https://youtu.be/sxzCbLRbIkA?t=895,00:14:55,Siemens,http://www.industry.siemens.com/topics/global/de/industrial-security/news-alerts/seiten/alerts.aspx
+https://youtu.be/sxzCbLRbIkA?t=910,00:15:10,NIST,https://www.nist.gov/publications/search?term_node_tid_depth%5B%5D=248731
+https://youtu.be/sxzCbLRbIkA?t=1080,00:18:00,FireEye,https://www.ernw.de/download/ERNW_44CON_PlayingWithFire_signed.pdf
+https://youtu.be/sxzCbLRbIkA?t=1095,00:18:15,ATMs,https://www.kaspersky.com/blog/sas-2017-atm-malware/14509
+https://youtu.be/sxzCbLRbIkA?t=1110,00:18:30,Workshop,https://www.esmt.org/faculty-research/centers-chairs-and-institutes/digital-society-institute-dsi/dsi-events
+https://youtu.be/sxzCbLRbIkA?t=1190,00:19:50,Patrick Winston,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos
+https://youtu.be/sxzCbLRbIkA?t=1210,00:20:10,Unterbrochene Herz-OP,https://arstechnica.com/security/2016/05/faulty-av-scan-disrupts-patients-heart-procedure-when-monitor-goes-black
+https://youtu.be/sxzCbLRbIkA?t=1305,00:21:45,ZDF Test,https://www.zdf.de/politik/frontal-21/luecken-bei-antiviren-software-100.html
+https://youtu.be/sxzCbLRbIkA?t=1320,00:22:00,Hochsicherheitsansätze,https://www.quantamagazine.org/formal-verification-creates-hacker-proof-code-20160920
