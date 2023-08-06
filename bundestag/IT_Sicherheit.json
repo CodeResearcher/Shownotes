@@ -1,0 +1,454 @@
+{
+	"Video":"https://www.bundestag.de/dokumente/textarchiv/2014/50616868_kw18_pa_digitale_agenda/216996",
+	"Documents":"https://www.bundestag.de/ausschuesse/ausschuesse18/a23/anhoerungen/fachgespraech/281524",
+	"Topics":[
+		{
+			"Topic":"Jens Koeppen (CDU)",
+			"Speaker":"Jens Koeppen",
+			"Time":"00:00:00",
+			"Sources": [
+				"https://twitter.com/jenskoeppen?lang=de",
+				"https://www.abgeordnetenwatch.de/profile/jens-koeppen/archive/214564"
+			]
+		},
+		{
+			"Topic":"Michael Hange (BSI)",
+			"Speaker":"Michael Hange",
+			"Time":"00:01:23",
+			"Sources": [
+				"https://de.wikipedia.org/wiki/Michael_Hange",
+				"https://www.bsi.bund.de/DE/Home/home_node.html"
+			]
+		},
+		{
+			"Topic":"Pascal Kurschildgen",
+			"Speaker":"Pascal Kurschildgen",
+			"Time":"00:01:30",
+			"Sources": [
+				"https://twitter.com/pkurschildgen",
+				"http://kurschildgen.com/"
+			]
+		},
+		{
+			"Topic":"Sandro Gaycken (FU Berlin)",
+			"Speaker":"Sandro Gaycken",
+			"Time":"00:01:37",
+			"Sources": [
+				"https://de.wikipedia.org/wiki/Sandro_Gaycken",
+				"http://www.mi.fu-berlin.de/"
+			]
+		},
+		{
+			"Topic":"Thorsten Schröder (Modzero GmbH)",
+			"Speaker":"Thorsten Schröder",
+			"Time":"00:01:44",
+			"Sources": [
+				"https://twitter.com/__ths__",
+				"https://modzero.com"
+			]
+		},
+		{
+			"Topic":"Linus Neumann (CCC)",
+			"Speaker":"Linus Neumann",
+			"Time":"00:01:50",
+			"Sources": [
+				"https://twitter.com/linuzifer",
+				"https://www.ccc.de/"
+			]
+		},
+		{
+			"Topic":"Niko Härting",
+			"Speaker":"Niko Härting",
+			"Time":"00:01:57",
+			"Sources": [
+				"https://twitter.com/nhaerting",
+				"https://www.haerting.de/de"
+			]
+		},
+		{
+			"Topic":"Themen",
+			"Speaker":"Michael Hange",
+			"Time":"00:04:12",
+			"Sources": [
+				"https://de.wikipedia.org/wiki/Globale_%C3%9Cberwachungs-_und_Spionageaff%C3%A4re",
+				"https://de.wikipedia.org/wiki/Identit%C3%A4tsdiebstahl",
+				"https://de.wikipedia.org/wiki/Heartbleed",
+				"https://de.wikipedia.org/wiki/Kryptographie"
+			]
+		},
+		{
+			"Topic":"Upstream Intelligence",
+			"Speaker":"Sandro Gaycken",
+			"Time":"00:12:07",
+			"Sources": [
+				"https://www.eff.org/de/pages/upstream-prism"
+			]
+		},
+		{
+			"Topic":"OpenSSL",
+			"Speaker":"Thorsten Schröder",
+			"Time":"00:13:32",
+			"Sources": [
+				"https://de.wikipedia.org/wiki/OpenSSL"
+			]
+		},
+		{
+			"Topic":"Sicherheitsaudit",
+			"Speaker":"Thorsten Schröder",
+			"Time":"00:14:24",
+			"Sources": [
+				"https://de.wikipedia.org/wiki/IT-Sicherheitsaudit"
+			]
+		},
+		{
+			"Topic":"BSI Audit",
+			"Speaker":"Thorsten Schröder",
+			"Time":"00:14:45",
+			"Sources": [
+				"https://www.bsi.bund.de/DE/Publikationen/Studien/OpenSSL-Bibliothek/opensslbibliothek.html"
+			]
+		},
+		{
+			"Topic":"GSM Sicherheitslücken",
+			"Speaker":"Thorsten Schröder",
+			"Time":"00:16:08",
+			"Sources": [
+				"https://www.heise.de/security/meldung/Ernstzunehmende-Luecken-im-LTE-Protokoll-aufgedeckt-kaum-Hoffnung-auf-Absicherung-3986845.html",
+				"https://www.heise.de/security/meldung/Sicherheitsluecke-im-Mobilfunk-UMTS-Verschluesselung-mittels-SS7-umgangen-2503376.html",
+				"https://www.heise.de/security/meldung/SIGINT-Kaum-Fortschritte-bei-der-GSM-Sicherheit-1579566.html"
+			]
+		},
+		{
+			"Topic":"Reetdach",
+			"Speaker":"Linus Neumann",
+			"Time":"00:17:33",
+			"Sources": [
+				"https://de.wikipedia.org/wiki/Reetdach"
+			]
+		},
+		{
+			"Topic":"Bug Bounty",
+			"Speaker":"Linus Neumann",
+			"Time":"00:19:40",
+			"Sources": [
+				"https://de.wikipedia.org/wiki/Bug-Bounty-Programm"
+			]
+		},
+		{
+			"Topic":"GSM Angriff",
+			"Speaker":"Linus Neumann",
+			"Time":"00:20:27",
+			"Sources": [
+				"https://www.heise.de/security/meldung/28C3-Neue-Angriffe-auf-GSM-Handys-und-Schutzmechanismen-1401633.html"
+			]
+		},
+		{
+			"Topic":"Geheimdienste",
+			"Speaker":"Niko Härting",
+			"Time":"00:21:59",
+			"Sources": [
+				"https://netzpolitik.org/2016/innenministerium-will-rechtswidrige-datenverarbeitung-bei-geheimdiensten-sanktionsfrei-machen/"
+			]
+		},
+		{
+			"Topic":"Discovery Verfahren",
+			"Speaker":"Niko Härting",
+			"Time":"00:23:16",
+			"Sources": [
+				"http://www.faz.net/aktuell/wirtschaft/recht-steuern/discovery-verfahren-beweiserhebung-durch-die-hintertuer-1381976.html"
+			]
+		},
+		{
+			"Topic":"Provider Beschlagnahmung",
+			"Speaker":"Niko Härting",
+			"Time":"00:24:48",
+			"Sources": [
+				"https://www.bundesverfassungsgericht.de/pressemitteilungen/bvg09-079.html"
+			]
+		},
+		{
+			"Topic":"Verschlüsselungsstandort Nr. 1",
+			"Speaker":"Thomas Jarzombek",
+			"Time":"00:26:27",
+			"Sources": [
+				"https://www.krypto-charta.de/"
+			]
+		},
+		{
+			"Topic":"PGP Installation",
+			"Speaker":"Thomas Jarzombek",
+			"Time":"00:26:38",
+			"Sources": [
+				"https://www.youtube.com/watch?v=BBgZyV4iltw"
+			]
+		},
+		{
+			"Topic":"Internetenquete",
+			"Speaker":"Halina Wawzyniak",
+			"Time":"00:28:25",
+			"Sources": [
+				"http://webarchiv.bundestag.de/archive/2013/1212/internetenquete/Zugang/index.html"
+			]
+		},
+		{
+			"Topic":"Internetenquete Zwischenbericht",
+			"Speaker":"Halina Wawzyniak",
+			"Time":"00:28:59",
+			"Sources": [
+				"https://dipbt.bundestag.de/dip21/btd/17/125/1712541.pdf"
+			]
+		},
+		{
+			"Topic":"Schengen Routing",
+			"Speaker":"Halina Wawzyniak",
+			"Time":"00:29:41",
+			"Sources": [
+				"https://en.wikipedia.org/wiki/Schengen_Routing"
+			]
+		},
+		{
+			"Topic":"De-Mail Verschlüsselung",
+			"Speaker":"Konstantin von Notz",
+			"Time":"00:34:30",
+			"Sources": [
+				"https://www.heise.de/newsticker/meldung/De-Mail-integriert-Ende-zu-Ende-Verschluesselung-mit-PGP-2570632.html"
+			]
+		},
+		{
+			"Topic":"Staatstrojaner",
+			"Speaker":"Konstantin von Notz",
+			"Time":"00:35:05",
+			"Sources": [
+				"http://www.spiegel.de/netzwelt/netzpolitik/digitask-trojaner-hersteller-beliefert-etliche-behoerden-und-bundeslaender-a-791112.html",
+				"http://www.finfisher.com/FinFisher/index.html",
+				"http://www.hackingteam.it/",
+				"https://privacyinternational.org/report/807/global-surveillance-industry"
+			]
+		},
+		{
+			"Topic":"Browser Verschlüsselung",
+			"Speaker":"Pascal Kurschildgen",
+			"Time":"00:37:27",
+			"Sources": [
+				"https://patents.google.com/patent/DE102012222995B3/de?inventor=Mike+Bobinski",
+				"https://github.com/mailvelope/mailvelope"
+			]
+		},
+		{
+			"Topic":"Signaturgesetz",
+			"Speaker":"Niko Härting",
+			"Time":"00:41:50",
+			"Sources": [
+				"https://de.wikipedia.org/wiki/Signaturgesetz_(Deutschland)"
+			]
+		},
+		{
+			"Topic":"Snowden Archiv",
+			"Speaker":"Thorsten Schröder",
+			"Time":"00:44:10",
+			"Sources": [
+				"https://snowdenarchive.cjfe.org/greenstone/cgi-bin/library.cgi",
+				"https://github.com/iamcryptoki/snowden-archive",
+				"https://www.theguardian.com/us-news/the-nsa-files"
+			]
+		},
+		{
+			"Topic":"Überseekabel",
+			"Speaker":"Thorsten Schröder",
+			"Time":"00:44:55",
+			"Sources": [
+				"https://netzpolitik.org/2013/glasfaserkabel-und-spionage-u-boote-wie-die-nsa-die-nervenzentren-der-internet-kommunikation-anzapft/",
+				"https://www.heise.de/newsticker/meldung/Bericht-GCHQ-schoepft-deutsches-Internet-am-Ueberseekabel-ab-1895776.html",
+				"https://de.wikipedia.org/wiki/Tempora"
+			]
+		},
+		{
+			"Topic":"Backdoor Contests",
+			"Speaker":"Thorsten Schröder",
+			"Time":"00:47:15",
+			"Sources": [
+				"http://www.underhanded-c.org/"
+			]
+		},
+		{
+			"Topic":"OpenSSL Entwicklung",
+			"Speaker":"Thorsten Schröder",
+			"Time":"00:47:59",
+			"Sources": [
+				"https://blog.fefe.de/?ts=adba343f"
+			]
+		},
+		{
+			"Topic":"NSA Expertensystem",
+			"Speaker":"Thorsten Schröder",
+			"Time":"00:49:05",
+			"Sources": [
+				""
+			]
+		},
+		{
+			"Topic":"DECIX",
+			"Speaker":"Linus Neumann",
+			"Time":"00:53:07",
+			"Sources": [
+				"https://netzpolitik.org/2013/schengen-routing-de-cix-und-die-bedenken-der-balkanisierung-des-internets/",
+				"https://netzpolitik.org/2015/telekom-am-internetknoten-de-cix-es-gibt-keine-aenderung-der-peering-policy-man-fuehrt-die-netzgemeinde-vor/"
+			]
+		},
+		{
+			"Topic":"DARPA Crash Program",
+			"Speaker":"Sandro Gaycken",
+			"Time":"00:55:40",
+			"Sources": [
+				"https://opencatalog.darpa.mil/CRASH.html",
+				"https://www.csail.mit.edu/person/howard-shrobe",
+				"https://breakingdefense.com/2012/12/darpa-crash-program-seeks-to-reinvent-computers-for-better-secur/"
+			]
+		},
+		{
+			"Topic":"Neue Sicherheitskonzepte",
+			"Speaker":"Sandro Gaycken",
+			"Time":"00:57:06",
+			"Sources": [
+				"https://www.aisec.fraunhofer.de/content/dam/aisec/Dokumente/Publikationen/Studien_TechReports/deutsch/leitfaden-it-security-i40.pdf",
+				"https://securingsmartcities.org/"
+			]
+		},
+		{
+			"Topic":"IT Sicherheit in Entwicklungsländern",
+			"Speaker":"Sandro Gaycken",
+			"Time":"00:57:16",
+			"Sources": [
+				"https://mse238blog.stanford.edu/2017/07/imunizr/cyber-security-challenges-in-developing-countries/"
+			]
+		},
+		{
+			"Topic":"NATO Studie",
+			"Speaker":"Sandro Gaycken",
+			"Time":"00:58:40",
+			"Sources": [
+				"https://www.recurity-labs.com/content/pub/Lindner_Gaycken-Back-to-Basics.pdf"
+			]
+		},
+		{
+			"Topic":"Verschlüsselte Dienste",
+			"Speaker":"Linus Neumann",
+			"Time":"01:03:18",
+			"Sources": [
+				"https://signal.org/",
+				"https://telegram.org/",
+				"https://www.linphone.org/",
+				"https://www.heise.de/security/meldung/Sicheres-Telefonieren-mit-Telekom-und-GSMK-2290162.html"
+			]
+		},
+		{
+			"Topic":"CSC",
+			"Speaker":"Linus Neumann",
+			"Time":"01:04:16",
+			"Sources": [
+				"https://dip21.bundestag.de/dip21/btd/17/146/1714647.pdf",
+				"https://de.wikipedia.org/wiki/Computer_Sciences_Corporation",
+				"https://netzpolitik.org/2013/csc-in-alle-grossen-it-vorhaben-eingebunden-de-mail-npa-epa-staatstrojaner-waffenregister-e-gerichtsakte-e-strafregister/"
+			]
+		},
+		{
+			"Topic":"Digitale Signatur",
+			"Speaker":"Michael Hange",
+			"Time":"01:07:40",
+			"Sources": [
+				"https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/ElektronischeSignatur/elektronischesignatur_node.html"
+			]
+		},
+		{
+			"Topic":"Freie Software",
+			"Speaker":"Michael Hange",
+			"Time":"01:15:50",
+			"Sources": [
+				"https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/FreieSoftware/freiesoftware_node.html"
+			]
+		},
+		{
+			"Topic":"BSI für Bürger",
+			"Speaker":"Michael Hange",
+			"Time":"01:16:55",
+			"Sources": [
+				"https://www.bsi-fuer-buerger.de/BSIFB/DE/Home/home_node.html"
+			]
+		},
+		{
+			"Topic":"Personalausweis",
+			"Speaker":"Thorsten Schröder",
+			"Time":"01:17:45",
+			"Sources": [
+				"https://www.heise.de/newsticker/meldung/Chaos-Computer-Club-Neuer-Personalausweis-ist-nicht-sicher-1958360.html"
+			]
+		},
+		{
+			"Topic":"Sicherheitslücke in Lesegeräten",
+			"Speaker":"Thorsten Schröder",
+			"Time":"01:19:30",
+			"Sources": [
+				"https://www.ccc.de/de/updates/2010/sicherheitsprobleme-bei-suisseid-und-epa"
+			]
+		},
+		{
+			"Topic":"Transportverschlüsselung",
+			"Speaker":"Pascal Kurschildgen",
+			"Time":"01:23:33",
+			"Sources": [
+				"https://www.heise.de/newsticker/meldung/E-Mail-Provider-stellen-auf-Transportverschluesselung-um-2157950.html"
+			]
+		},
+		{
+			"Topic":"E-Mailverschlüsselung Methoden",
+			"Speaker":"Pascal Kurschildgen",
+			"Time":"01:24:55",
+			"Sources": [
+				"https://de.wikipedia.org/wiki/Pretty_Good_Privacy",
+				"https://de.wikipedia.org/wiki/S/MIME"
+			]
+		},
+		{
+			"Topic":"Lokale Verschlüsselung",
+			"Speaker":"Pascal Kurschildgen",
+			"Time":"01:25:07",
+			"Sources": [
+				"https://www.veracrypt.fr/en/Home.html"
+			]
+		},
+		{
+			"Topic":"Mobile Sicherheit",
+			"Speaker":"Pascal Kurschildgen",
+			"Time":"01:25:55",
+			"Sources": [
+				"https://andreas-kurtz.de/2014/04/what-apple-missed-to-fix-in-ios-711/"
+			]
+		},
+		{
+			"Topic":"E-Mailverschlüsselung Anwendung",
+			"Speaker":"Pascal Kurschildgen",
+			"Time":"01:27:05",
+			"Sources": [
+				"https://www.heise.de/ct/artikel/Einfach-erklaert-E-Mail-Verschluesselung-mit-PGP-4006652.html#nav_pgp_mit_iphone__7",
+				"https://netzpolitik.org/2013/anleitung-so-verschlusselt-ihr-eure-e-mails-mit-pgp/",
+				"http://www.pgpeverywhere.com/"
+			]
+		},
+		{
+			"Topic":"MFA",
+			"Speaker":"Pascal Kurschildgen",
+			"Time":"01:27:30",
+			"Sources": [
+				"https://www.datenschutz-praxis.de/fachartikel/3-faktor-authentifizierung-macht-das-wirklich-sinn/"
+			]
+		},
+		{
+			"Topic":"Fingerabdruckkopie",
+			"Speaker":"Pascal Kurschildgen",
+			"Time":"01:28:20",
+			"Sources": [
+				"https://www.ccc.de/de/campaigns/aktivitaeten_biometrie/fingerabdruck_kopieren"
+			]
+		}
+	]
+}
